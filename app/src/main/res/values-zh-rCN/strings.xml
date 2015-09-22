@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">玩乎</string>
+    <string name="action_settings">设置</string>
+    <string name="home">首页</string>
+    <string name="favourite">关注</string>
+    <string name="downloaded">下载</string>
+    <string name="more">更多</string>
+    <string name="settings">设置</string>
+    <string name="change_theme">切换主题</string>
+</resources>
